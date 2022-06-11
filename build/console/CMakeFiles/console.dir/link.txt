@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libconsole.a CMakeFiles/console.dir/ansi.c.o CMakeFiles/console.dir/__/board/board.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libconsole.a
