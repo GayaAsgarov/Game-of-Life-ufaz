@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libgui.a CMakeFiles/gui.dir/gui.c.o CMakeFiles/gui.dir/__/board/board.c.o CMakeFiles/gui.dir/__/console/ansi.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libgui.a
